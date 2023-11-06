@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Bhangare</h1>
-<img src="https://github.com/NileshBhangare/NileshBhanagare/assets/94733730/35aab1ae-5e8f-42e6-a09f-7c5bcc11c3e5" alt="Intro">
-![image](https://github.com/NileshBhangare/NileshBhangare/assets/94733730/8690e57d-cdba-4e79-b88f-bff8c392ee4b)
+<img src="https://github.com/NileshBhangare/NileshBhangare/assets/94733730/8690e57d-cdba-4e79-b88f-bff8c392ee4b" alt="Intro">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshbhangare" alt="nileshbhangare" /></a> </p>
 
